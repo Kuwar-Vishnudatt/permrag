@@ -1,0 +1,33 @@
+documents:
+  - id: holiday-calendar
+    title: Holiday Calendar
+    file: holiday-calendar.md
+
+  - id: benefits-overview
+    title: Benefits Overview
+    file: benefits-overview.md
+
+  - id: engineering-oncall
+    title: Engineering On-Call Runbook
+    file: engineering-oncall.md
+    departments: [engineering]
+
+  - id: sales-commission
+    title: Sales Commission Structure
+    file: sales-commission.md
+    departments: [sales]
+
+  - id: manager-performance-guide
+    title: Manager Performance Review Guide
+    file: manager-performance-guide.md
+    min_role: manager
+
+  - id: exec-comp-bands
+    title: Executive Compensation Bands
+    file: exec-comp-bands.md
+    min_role: exec
+
+  - id: layoffs-plan
+    title: Q4 Reorganization Plan
+    file: layoffs-plan.md
+    min_role: hr_admin
